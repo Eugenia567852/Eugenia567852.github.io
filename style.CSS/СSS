@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cucumber</title>
+    <link rel="stylesheet"ty
+    </head>
+ <STYLE>
+        .css-menu{
+            list-style: none;
+            border-bottom: 1px red solio;
+            padding-bottom: 20px;
+        }
+        .css-menu li{
+            display: inline;
+            margin-right: 10px;
+        }
+        .css-menu li a{
+            color: black;
+            text-decoration:  none;
+            border: 1px solid green;
+            background-color: antiquewhite;
+            padding: 10px 14px;
+        }
+    </style>
+    <link
+<body>
+   
+    <ul class="css-menu">
+        <li><a href="#">Главная страничка</a></li>
+        <li><a href="#">Меню</a></li>
+        <li><a href="#">ftgfgdtd</a></li>
+    </ul>
+    <table>
+        <thead>
+            <tr>
+                <th>HTML</th>
+                <th>CSS</th>
+                <th>JS</th>
+                <th>GIT</th>
+             </tr>
+        </thead>
+    <tbody>
+        <tr>
+            <td>Синий</td>
+            <td>фиолетовый</td>
+            <td>Жёлтый</td>
+            <td>Зелёный</td>
+        </tr>
+        <tr>
+            <td>Комп мышь</td>
+            <td>Микрофон</td>
+            <td>монитор</td>
+            <td>колонки</td>
+        </tr>
+        <tr>
+            <td>Танос</td>
+            <td>5</td>
+            <td>3</td>
+            <td>2</td>
+        </tr>
+    </tbody>
+    </table>
